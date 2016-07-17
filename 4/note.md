@@ -35,3 +35,4 @@ element.src = source;
 
 window.onload事件：在页面加载时执行；
 firstChild， lastChild;
+
