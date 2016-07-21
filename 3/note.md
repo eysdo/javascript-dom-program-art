@@ -20,4 +20,3 @@
   如果没有该属性，则返回null;
 
 - setAttribute(attribute,value)
-

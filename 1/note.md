@@ -21,4 +21,3 @@
   ```
     var xpos=document.getElementById('myelement').style.left;
   ```
-
